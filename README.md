@@ -26,6 +26,6 @@ Python,HTML,CSS,JavaScript,Swift
 
 全自動農業
 
-- 📫 コンタクト...
+📫 コンタクト...
 
 Twitter : https://twitter.com/EveSquaretti
