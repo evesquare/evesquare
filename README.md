@@ -14,6 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...PythonによるWebアプリケーション、GUIアプリケーション開発。Swift,SwiftUIによるIOSアプリケーション開発。
-- 🌱 I’m currently learning ...Python,HTML,CSS,JavaScript,Swift
-- 📫 How to reach me: ...Twitter : https://twitter.com/EveSquaretti
+#🔭 今やっていること ...
+
+PythonによるWebアプリケーション、GUIアプリケーション開発。Swift,SwiftUIによるIOSアプリケーション開発。
+
+#🌱 学んでいること...
+
+Python,HTML,CSS,JavaScript,Swift
+
+#⚡ やりたいこと...
+
+全自動農業
+
+- 📫 コンタクト...
+
+Twitter : https://twitter.com/EveSquaretti
