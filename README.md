@@ -24,7 +24,7 @@ Python,HTML,CSS,JavaScript,Swift
 
 # 🤔　作ったもの
 
--ROKATION
+- ROKATION
   - https://sleepy-river-86061.herokuapp.com/
 
 # ⚡ やりたいこと...
