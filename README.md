@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 🔭 今やっていること ...
 
-PythonによるWebアプリケーション、GUIアプリケーション開発。Swift,SwiftUIによるIOSアプリケーション開発。
+PythonによるWebアプリケーション、GUIアプリケーション開発。Swift,SwiftUIによるIOSアプリケーション開発。あとRaspberryPi
 
 # 🌱 学んでいること...
 
