@@ -22,6 +22,11 @@ PythonによるWebアプリケーション、GUIアプリケーション開発�
 
 Python,HTML,CSS,JavaScript,Swift
 
+# 🤔　作ったもの
+
+-ROKATION
+  - https://sleepy-river-86061.herokuapp.com/
+
 # ⚡ やりたいこと...
 
 全自動農業
