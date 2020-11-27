@@ -33,4 +33,5 @@ Python,HTML,CSS,JavaScript,Swift
 
 # 📫 コンタクト...
 
-Twitter : https://twitter.com/EveSquaretti
+(evesquare.contact★gmail.com)★->@
+
