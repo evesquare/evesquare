@@ -28,8 +28,10 @@ Python,HTML,CSS,JavaScript,Swift
 
 # 🤔 作ったもの
 
-- ROKATION
+- ROKATION(Flask)
   - https://sleepy-river-86061.herokuapp.com/
+- SHIFT KIBOH Generater(GAS)
+  - https://script.google.com/macros/s/AKfycbzZhDodoCy0ubZADyBA8VpoxbfgNN3SURZN1ZTwQOjzUaqBPifI/exec
 
 # ⚡ やりたいこと...
 
