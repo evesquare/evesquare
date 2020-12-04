@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 -->
 # 🔭 今やっていること ...
 
-PythonによるWebアプリケーション、GUIアプリケーション開発。Swift,SwiftUIによるIOSアプリケーション開発。あとRaspberryPi
+Webアプリケーション、GUIアプリケーション開発。Swift,SwiftUIによるIOSアプリケーション開発。RaspberryPi
 
 動画作ったり、ロゴ作ったり...
 
 
 # 🌱 学んでいること...
 
-Python,HTML,CSS,JavaScript,Swift
+Python,HTML,CSS,JavaScript,GAS,Swift
 
 # 🤔 作ったもの
 
