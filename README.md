@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # 🔭 今やっていること ...
 
-Webアプリケーション、GUIアプリケーション開発。Swift,SwiftUIによるIOSアプリケーション開発。RaspberryPi
+デスクトップユーティリティツール、Webアプリケーション、GUIアプリケーション開発。RaspberryPi
 
 動画作ったり、ロゴ作ったり...
 
