@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 デスクトップユーティリティツール、Webアプリケーション、GUIアプリケーション開発。RaspberryPi
 
 動画作ったり、ロゴ作ったり...
+Twitter,LINE,Discordの連携
 
 
 # 🌱 学んでいること...
