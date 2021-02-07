@@ -27,7 +27,7 @@ Twitter,LINE,Discordの連携
 
 Python,HTML,CSS,JavaScript,GAS,Swift
 
-# 🤔 作ったもの
+# ✨ 作ったもの
 
 - ROKATION(Flask)
   - https://sleepy-river-86061.herokuapp.com/
