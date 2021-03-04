@@ -41,6 +41,8 @@ Python,HTML,CSS,JavaScript,GAS,Swift
   - https://time-capsule-messages.herokuapp.com
 - U-tipy
   - https://u-tipy.herokuapp.com
+- Syakkuri
+  - https://syakkuri.herokuapp.com
 
 # ⚡ やりたいこと...
 
