@@ -37,7 +37,7 @@ Python,HTML,CSS,JavaScript,Vue.js,TypeScript,GAS,Swift
 | [Twince](https://t.co/lY1Ltrnsyc?amp=1)                                                                                        | Python     | Flask  | 
 | [PastMessages(LINE Bot)](https://time-capsule-messages.herokuapp.com)                                                          | Python     | Flask  | 
 | [U-tipy](https://u-tipy.herokuapp.com)                                                                                         | Python     | Flask  | 
-| [Syakkuri](https://syakkuri.herokuapp.com)                                                                                     | Python     | Django | 
+| [Syakkuri](https://syakkuri.herokuapp.com)                                                                                     | Python     | Flask | 
 | [LINE選択型配信システム(Mobile)](https://kyouno.herokuapp.com/)                                                                | Python     | Django | 
 
 # ⚡ やりたいこと...
