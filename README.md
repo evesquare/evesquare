@@ -29,22 +29,16 @@ Python,HTML,CSS,JavaScript,Vue.js,TypeScript,GAS,Swift
 
 # ✨ 作ったもの
 
-- ROKATION(Flask)
-  - [ROKATION(Flask)](https://sleepy-river-86061.herokuapp.com/)
-- SHIFT KIBOH Generater(GAS)
-  - [SHIFT KIBOH Generater(GAS)](https://script.google.com/macros/s/AKfycbzZhDodoCy0ubZADyBA8VpoxbfgNN3SURZN1ZTwQOjzUaqBPifI/exec)
-- URANAI NO YATSU
-  - [URANAI NO YATSU](https://enigmatic-brook-72697.herokuapp.com/)
-- Twince
-  - [Twince](https://t.co/lY1Ltrnsyc?amp=1)
-- PastMessages(LINE Bot)
-  - [PastMessages(LINE Bot)](https://time-capsule-messages.herokuapp.com)
-- U-tipy
-  - [U-tipy](https://u-tipy.herokuapp.com)
-- Syakkuri
-  - [Syakkuri](https://syakkuri.herokuapp.com)
-- LINE選択型配信システム(Mobile)
-  - [LINE選択型配信システム(Mobile)](https://kyouno.herokuapp.com/)
+| LINK                                                                                                                           |            |        | 
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------ | 
+| [ROKATION(Flask)](https://sleepy-river-86061.herokuapp.com/)                                                                   | Python     | Flask  | 
+| [SHIFT KIBOH Generater(GAS)](https://script.google.com/macros/s/AKfycbzZhDodoCy0ubZADyBA8VpoxbfgNN3SURZN1ZTwQOjzUaqBPifI/exec) | JavaScript | GAS    | 
+| [URANAI NO YATSU](https://enigmatic-brook-72697.herokuapp.com/)                                                                | Python     | Flask  | 
+| [Twince](https://t.co/lY1Ltrnsyc?amp=1)                                                                                        | Python     | Flask  | 
+| [PastMessages(LINE Bot)](https://time-capsule-messages.herokuapp.com)                                                          | Python     | Flask  | 
+| [U-tipy](https://u-tipy.herokuapp.com)                                                                                         | Python     | Flask  | 
+| [Syakkuri](https://syakkuri.herokuapp.com)                                                                                     | Python     | Django | 
+| [LINE選択型配信システム(Mobile)](https://kyouno.herokuapp.com/)                                                                | Python     | Django | 
 
 # ⚡ やりたいこと...
 
