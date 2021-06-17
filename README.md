@@ -42,7 +42,7 @@ Python,HTML,CSS,JavaScript,Vue.js,TypeScript,GAS,Swift
 - U-tipy
   - https://u-tipy.herokuapp.com
 - Syakkuri
-  - https://syakkuri.herokuapp.com
+  - [Syakkuri](https://syakkuri.herokuapp.com)
 - LINE選択型配信システム(Mobile)
   - [LINE選択型配信システム(Mobile)](https://kyouno.herokuapp.com/)
 
