@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # 🔭 今やっていること ...
 
-デスクトップユーティリティツール、Webアプリケーション、開発。RaspberryPi
+Webアプリケーション、開発。RaspberryPi
 
 動画作ったり、ロゴ作ったり...
 Twitter,LINE,Discordの連携
@@ -25,7 +25,7 @@ Twitter,LINE,Discordの連携
 
 # 🌱 学んでいること...
 
-Python,HTML,CSS,JavaScript,Vue.js,TypeScript,GAS,Swift
+Python,HTML,CSS,JavaScript,Vue.js,TypeScript,GAS
 
 # ✨ 作ったもの
 
