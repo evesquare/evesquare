@@ -38,7 +38,8 @@ Python,HTML,CSS,JavaScript,Vue.js,TypeScript,GAS
 | [PastMessages(LINE Bot)](https://time-capsule-messages.herokuapp.com)                                                          | Python     | Flask  | 2021-5|
 | [U-tipy](https://u-tipy.herokuapp.com)                                                                                         | Python     | Flask  | 2021-2|
 | [Syakkuri](https://syakkuri.herokuapp.com)                                                                                     | Python     | Flask | 2021-3|
-| [LINE選択型配信システム(Mobile)](https://kyouno.herokuapp.com/)                                                                | Python     | Django | 2021-6|
+| [LINE選択型配信システム(Mobile)](https://kyouno.herokuapp.com/)                                                                  | Python     | Django | 2021-6|
+| [.ENV manager(.envを管理するWebapp)](https://dotenv-manager.herokuapp.com/)                                                | Python     | Django | 2021-8|
 
 # ⚡ やりたいこと...
 
