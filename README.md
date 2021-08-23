@@ -25,7 +25,8 @@ Twitter,LINE,Discordの連携
 
 # 🌱 学んでいること...
 
-Python,HTML,CSS,JavaScript,Vue.js,TypeScript,GAS
+Python,TypeScript,GAS,
+Django,Vue.js,
 
 # ✨ 作ったもの
 
