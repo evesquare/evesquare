@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # 🔭 今やっていること ...
 
-Webアプリケーション、開発。
+Webアプリケーション開発，自動化に興味を持つ
 
 動画作ったり、ロゴ作ったり...
 Twitter,LINE,Discordの連携
