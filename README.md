@@ -75,5 +75,5 @@ Twitter,LINE,Discordの連携
 
 # 📫 コンタクト...
 
-(evesquare.contact★gmail.com)★->@
+evesquare(at)protonmail.ch
 
