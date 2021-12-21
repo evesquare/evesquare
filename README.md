@@ -59,7 +59,7 @@ Twitter,LINE,Discordの連携
 | LINK                                                                                                                           |Language    |Framework| |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------ |------ |
 | [ROKATION(Flask)](https://sleepy-river-86061.herokuapp.com/)                                                                   | Python     | Flask  | |
-| [SHIFT KIBOH Generater(GAS)](https://script.google.com/macros/s/AKfycbzZhDodoCy0ubZADyBA8VpoxbfgNN3SURZN1ZTwQOjzUaqBPifI/exec) | JavaScript | GAS    | |
+// | [SHIFT KIBOH Generater(GAS)](https://script.google.com/macros/s/AKfycbzZhDodoCy0ubZADyBA8VpoxbfgNN3SURZN1ZTwQOjzUaqBPifI/exec) | JavaScript | GAS    | |
 | [URANAI NO YATSU](https://enigmatic-brook-72697.herokuapp.com/)                                                                | Python     | Flask  |2020-12 |
 | [Twince](https://t.co/lY1Ltrnsyc?amp=1)                                                                                        | Python     | Flask  | 2021-1|
 | [PastMessages(LINE Bot)](https://time-capsule-messages.herokuapp.com)                                                          | Python     | Flask  | 2021-5|
