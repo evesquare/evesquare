@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 # 🔭 今やっていること ...
 
-Webアプリケーション開発，自動化に興味あり
+Webアプリケーション開発， 自動化がすき
 
-動画作ったり、ロゴ作ったり...
+動画作ったり、ロゴ作ったり...たまにM5StickCとかRaspberry Pi
 Twitter,LINE,Discordの連携
 
 
