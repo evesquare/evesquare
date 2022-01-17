@@ -67,7 +67,7 @@ Twitter,LINE,Discordの連携
 </div> -->
 
 <div>
-<img src="https://github.com/EveSquare/evesquare/blob/main/stack.png" alt="stack" />
+<img src="https://github.com/EveSquare/evesquare/blob/main/stack.png" alt="stack" style="width: 50%;" />
 </div>
 
 
