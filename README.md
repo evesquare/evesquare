@@ -40,8 +40,10 @@ Twitter,LINE,Discordの連携
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 </div>
 
@@ -50,6 +52,12 @@ Twitter,LINE,Discordの連携
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
+</div>
+
+<div>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/9967ff963a55d73bded346dc749c6401e06417bf/topics/hugo/hugo.png"></code>
 </div>
 
 <div>
@@ -74,6 +82,7 @@ Twitter,LINE,Discordの連携
 | [.ENV manager(.envを管理するWebapp)](https://dotenv-manager.herokuapp.com)                                                       | Python     | Django | 2021-8|
 | [Pinger(フリー音源音声検索サービス)](https://pinger-dev.herokuapp.com/)                                                             | Python     | Django | 2021-9|
 | [tiltil(UtilApps)](https://tiltil.vercel.app/)                                                                                 | JavaScript  | Nuxt.js | 2022-1|
+| [fortissimo](https://foltissimo.vercel.app/)                                                                                   | TypeScript  | Next.js | 2022-1|
 # ⚡ やりたいこと...
 
 全自動農業
