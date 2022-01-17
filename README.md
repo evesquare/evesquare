@@ -70,6 +70,7 @@ Twitter,LINE,Discordの連携
 <img src="https://github.com/EveSquare/evesquare/blob/main/stack.png" alt="stack" style="width: 50%;" />
 </div>
 
+<!-- #[Prioritify(個人用プロジェクトで用いるURLの管理するWebApp)](http://prioritify.herokuapp.com/)  -->
 
 # ✨ 作ったもの
 
@@ -81,7 +82,7 @@ Twitter,LINE,Discordの連携
 | [PastMessages(LINE Bot)](https://time-capsule-messages.herokuapp.com)                                                          | Python     | Flask  | 2021-5|
 | [U-tipy](https://u-tipy.herokuapp.com)                                                                                         | Python     | Flask  | 2021-2|
 | [Syakkuri](https://syakkuri.herokuapp.com)                                                                                     | Python     | Flask | 2021-3|
-| [Prioritify(個人用プロジェクトで用いるURLの管理するWebApp)](http://prioritify.herokuapp.com/)                                        | Python     | Django | 2021-4|
+| Prioritify(個人用プロジェクトで用いるURLの管理するWebApp)                                                                               | Python     | Django | 2021-4|
 | [LINE選択型配信システム(Mobile)](https://kyouno.herokuapp.com/)                                                                   | Python     | Django | 2021-6|
 | [.ENV manager(.envを管理するWebapp)](https://dotenv-manager.herokuapp.com)                                                       | Python     | Django | 2021-8|
 | [Pinger(フリー音源音声検索サービス)](https://pinger-dev.herokuapp.com/)                                                             | Python     | Django | 2021-9|
