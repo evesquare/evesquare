@@ -22,6 +22,7 @@ Webアプリケーション開発， 自動化がすき
 動画作ったり、ロゴ作ったり...たまにM5StickCとかRaspberry Pi
 Twitter,LINE,Discordの連携
 
+3Dモデリングとか作曲とかしたい．
 
 # 🌱 学んでいること...
 
