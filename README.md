@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 -->
 # 🔭 今やっていること ...
 
-Webアプリケーション開発， 自動化がすき
+Webアプリケーション開発,自動化がすき
 
 動画作ったり、ロゴ作ったり...たまにM5StickCとかRaspberry Pi
 Twitter,LINE,Discordの連携
 
-3Dモデリングとか作曲とかしたい．
+最近Blenderを触っている. 作曲とかしたい.
 
 # 🌱 学んでいること...
 
