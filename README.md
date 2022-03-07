@@ -89,9 +89,13 @@ Twitter,LINE,Discordの連携
 | [Pinger(フリー音源音声検索サービス)](https://pinger-dev.herokuapp.com/)                                                             | Python     | Django | 2021-9|
 | [tiltil(UtilApps)](https://tiltil.vercel.app/)                                                                                 | JavaScript  | Nuxt.js | 2022-1|
 | [fortissimo](https://fortissimo.vercel.app/)                                                                                   | TypeScript  | Next.js | 2022-1|
+
 # ⚡ やりたいこと...
 
 全自動農業
+
+# 🍀 Blog
+[Qiita](https://qiita.com/EveSquare)
 
 # 📫 コンタクト...
 
