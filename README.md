@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 Webアプリケーション開発,自動化がすき
 
-動画作ったり、ロゴ作ったり...たまにM5StickCとかRaspberry Pi
-Twitter,LINE,Discordの連携
+動画作ったり、ロゴ作ったり...たまにArduino/M5StickC
 
 最近Blenderを触っている. 作曲とかしたい.
 
