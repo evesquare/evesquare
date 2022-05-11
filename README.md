@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 # 🔭 今やっていること ...
 
-Webアプリケーション開発,自動化がすき
+Webアプリケーション開発, *Automate*がすき
 
-動画作ったり、ロゴ作ったり...たまにArduino/M5StickC
+動画制作, ロゴ作成
 
-最近Blenderを触っている. 作曲とかしたい.
+Arduino/M5StickC
 
 # 🌱 学んでいること...
 
