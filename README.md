@@ -74,7 +74,8 @@ Arduino/M5StickC
 | [tiltil(UtilApps)](https://tiltil.vercel.app/)                                                                                 | JavaScript  | Nuxt.js | 2022-1|
 | [fortissimo](https://fortissimo.vercel.app/)                                                                                   | TypeScript  | Next.js | 2022-1|
 | [create-extention(コマンド一つで拡張機能のベースを作成)](https://github.com/EveSquare/create-extention)                              | JavaScript  |    -    | 2022-6|
-| [Pagination矢印移動(拡張機能)](https://github.com/EveSquare/pagination-detector)                                                    | JavaScript  |    -    | 2022-6|
+| [Pagination矢印移動(拡張機能)](https://github.com/EveSquare/pagination-detector)                                                  | JavaScript |    -    | 2022-6|
+| [GoogleScholarダークモード化(拡張機能)](https://github.com/EveSquare/google-scholar-darkmode-extension)                            | JavaScript |    -    | 2022-6|
 
 # ⚡ やりたいこと...
 
