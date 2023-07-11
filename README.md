@@ -16,3 +16,6 @@
 
 
 Feel free to explore my repositories, and let's connect! 😊✨
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
