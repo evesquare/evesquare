@@ -18,4 +18,6 @@
 Feel free to explore my repositories, and let's connect! 😊✨
 
 <!--START_SECTION:badges-->
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/8f993692-1226-49fd-ada6-4858d159b82c "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
