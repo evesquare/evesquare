@@ -23,4 +23,4 @@ Feel free to explore my repositories, and let's connect! 😊✨
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/5b91b33e-3095-4145-91a4-c279af2aad4c "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
 
-[![時間ねぇー](https://sites.google.com/view/happy-busy/)](https://github.com/EveSquare/evesquare/blob/main/image/EmbeddedImage.png)
+[![時間ねぇー](https://raw.githubusercontent.com/EveSquare/evesquare/main/image/EmbeddedImage.png)](https://sites.google.com/view/happy-busy/)
