@@ -2,13 +2,13 @@
 
 ## About Me
 
-🌟 **Work**: Professionally, I work with Django and specialize in developing web systems. ⚙️🌐
+🌟 **Work**: At work I specialize in developing web systems using Django and React. ⚙️🌐
 
-🌟 **Full Stack**: I handle both backend and frontend development. 💪🎨
+🌟 **Full Stack**: I am in charge of everything from back-end to front-end and infrastructure development. 💪🎨
 
-🌟 **Languages**: I excel in JavaScript (TypeScript) and Python. 🚀💻
+🌟 **Languages**: I am proficient in TypeScript and Python. 🚀💻
 
-🌟 **AWS**: Currently, I'm studying AWS to broaden my knowledge and skills. 💡📚
+🌟 **AWS**: I am currently studying AWS and AI to expand my knowledge and skills. 💡📚
 
 🌟 **Hobby**: As a personal interest, I enjoy working with Next.js. 🌟🚀
 
