@@ -18,10 +18,11 @@
 Feel free to explore my repositories, and let's connect! 😊✨
 
 <!--START_SECTION:badges-->
-
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/eca51682-59a2-4581-977d-626f59bd0b16 "AWS Certified Developer – Associate")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/3dd7978d-af3e-48a3-b104-97e53f4c6533 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/42d0a0f6-afa4-4ab0-bd9e-396c9bc4f58c "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
+  
+[![roadmap.sh](https://roadmap.sh/card/wide/6789aed898c00f7117a78b39?variant=dark&roadmaps=frontend)](https://roadmap.sh)
 
 [![時間ねぇー](https://raw.githubusercontent.com/EveSquare/evesquare/main/image/EmbeddedImage.png)](https://sites.google.com/view/happy-busy/)
