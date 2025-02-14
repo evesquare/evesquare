@@ -18,6 +18,9 @@
 Feel free to explore my repositories, and let's connect! 😊✨
 
 <!--START_SECTION:badges-->
+
+[![AWS Certified AI Practitioner Early Adopter](https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png)](http://www.credly.com/badges/d4dad338-eb13-4fbd-b9d1-ca5b79c8c6e4 "AWS Certified AI Practitioner Early Adopter")
+[![AWS Certified AI Practitioner](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](http://www.credly.com/badges/75ffeab8-7424-4b04-969a-317161af9edd "AWS Certified AI Practitioner")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/eca51682-59a2-4581-977d-626f59bd0b16 "AWS Certified Developer – Associate")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/3dd7978d-af3e-48a3-b104-97e53f4c6533 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/42d0a0f6-afa4-4ab0-bd9e-396c9bc4f58c "AWS Certified Cloud Practitioner")
