@@ -30,6 +30,7 @@ Feel free to explore my repositories, and let's connect! 😊✨
 
 [![時間ねぇー](https://raw.githubusercontent.com/EveSquare/evesquare/main/image/EmbeddedImage.png)](https://sites.google.com/view/happy-busy/)
 
+## Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [pgadmin4を定期的にアップデートするのがダルい](https://zenn.dev/evesquare2/articles/767d986f04539a)
