@@ -32,9 +32,9 @@ Feel free to explore my repositories, and let's connect! 😊✨
 ## Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Notionデータベースでカウントアップ機能を作る](https://zenn.dev/evesquare2/articles/9610818577ab26)
 - [pgadmin4を定期的にアップデートするのがダルい](https://zenn.dev/evesquare2/articles/767d986f04539a)
 - [Djangoの昇順降順をいつも忘れるのでメモ](https://zenn.dev/evesquare2/articles/925c5fbcb52ed4)
 - [djangorestframework-camel-caseの導入方法](https://zenn.dev/evesquare2/articles/a61976455dc0d5)
 - [pipenvで環境の名称をカスタムする方法](https://zenn.dev/evesquare2/articles/23015d9f0f484d)
-- [Django5.0から5.1へアップデートしたら、No such file or directoryになった](https://zenn.dev/evesquare2/articles/9fd85aa1056c17)
 <!-- BLOG-POST-LIST:END -->
