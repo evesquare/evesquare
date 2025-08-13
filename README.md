@@ -32,9 +32,8 @@ Feel free to explore my repositories, and let's connect! 😊✨
 ## Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Buck Bunnyみたいな開発用サンプル動画一覧](https://zenn.dev/evesquare2/articles/96f740575ffd0f)
-- [Notionデータベースでカウントアップ機能を作る](https://zenn.dev/evesquare2/articles/9610818577ab26)
-- [pgadmin4を定期的にアップデートするのがダルい](https://zenn.dev/evesquare2/articles/767d986f04539a)
-- [Djangoの昇順降順をいつも忘れるのでメモ](https://zenn.dev/evesquare2/articles/925c5fbcb52ed4)
-- [djangorestframework-camel-caseの導入方法](https://zenn.dev/evesquare2/articles/a61976455dc0d5)
+- [プログラミング言語をそこそこ分かるようになるための学習過程](https://qiita.com/evesquare/items/e0899478fa5ac0da8cb1)
+- [ナンセンスなCLIログを生成する「genact」でコーヒーブレイク](https://qiita.com/evesquare/items/a7c626d8b91bdab3f5ad)
+- [巨大なCSVファイルを開く色々な方法](https://qiita.com/evesquare/items/0bc502a010898efc096a)
+- [Pythonで中身のある巨大なCSVファイルを作成する](https://qiita.com/evesquare/items/67552dbccb3a7c326703)
 <!-- BLOG-POST-LIST:END -->
