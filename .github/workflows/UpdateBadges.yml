@@ -11,6 +11,6 @@ jobs:
       contents: write
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: evesquare/badge-readme@main
         with:       
           CREDLY_USER: juon-kawakami
