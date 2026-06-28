@@ -32,9 +32,9 @@ Feel free to explore my repositories, and let's connect! 😊✨
 ## Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok Effect Houseでエフェクトを作ろう](https://qiita.com/evesquare/items/1a35e1b804bc35630c13)
+- [AI駆動開発でPRが洪水になる前に、Labelerで可視化しておく](https://qiita.com/evesquare/items/f2c53f084c86f6018272)
 - [Claude CodeのHooksで作業完了と指示待ちを音と通知で知らせる+応用](https://qiita.com/evesquare/items/ed9397f3e4b9d8237617)
 - [AI時代において、VSCodeでObsidianのようにMarkdownを直接編集してはいかがかという提案](https://qiita.com/evesquare/items/c2118ea8c82784da3f61)
-- [【コスト最適化】Speech-to-Text APIの文字起こし費用を8割削減](https://qiita.com/evesquare/items/503561ae0f44bb517d5c)
-- [Claude Code × git worktreeで、メイン環境を汚さずIssueを並行処理する](https://qiita.com/evesquare/items/76e8883d0717dfca7341)
 - [SwiftUI シート裏の背景が暗くならないボトムシートの作成](https://zenn.dev/evesquare2/articles/20720af8b34ec0)
 <!-- BLOG-POST-LIST:END -->
