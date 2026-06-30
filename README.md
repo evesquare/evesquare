@@ -32,9 +32,9 @@ Feel free to explore my repositories, and let's connect! 😊✨
 ## Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [RaycastとProject Managerでgit管理されたプロジェクトを爆速で開く](https://qiita.com/evesquare/items/02f1f2f1210ccd8ced1b)
 - [個人開発でモチベを絶やさない技術](https://qiita.com/evesquare/items/8a299c496f40207004e1)
 - [TikTok Effect Houseでエフェクトを作ろう](https://qiita.com/evesquare/items/1a35e1b804bc35630c13)
 - [AI駆動開発でPRが洪水になる前に、Labelerで可視化しておく](https://qiita.com/evesquare/items/f2c53f084c86f6018272)
-- [Claude CodeのHooksで作業完了と指示待ちを音と通知で知らせる+応用](https://qiita.com/evesquare/items/ed9397f3e4b9d8237617)
 - [SwiftUI シート裏の背景が暗くならないボトムシートの作成](https://zenn.dev/evesquare2/articles/20720af8b34ec0)
 <!-- BLOG-POST-LIST:END -->
