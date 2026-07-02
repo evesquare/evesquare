@@ -32,9 +32,9 @@ Feel free to explore my repositories, and let's connect! 😊✨
 ## Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Summit 2026 ― AI駆動開発はどこまで来たか](https://qiita.com/evesquare/items/381dbae2b21d45923834)
-- [RaycastとProject Managerでgit管理されたプロジェクトを爆速で開く](https://qiita.com/evesquare/items/02f1f2f1210ccd8ced1b)
-- [個人開発でモチベを絶やさない技術](https://qiita.com/evesquare/items/8a299c496f40207004e1)
-- [TikTok Effect Houseでエフェクトを作ろう](https://qiita.com/evesquare/items/1a35e1b804bc35630c13)
 - [SwiftUI シート裏の背景が暗くならないボトムシートの作成](https://zenn.dev/evesquare2/articles/20720af8b34ec0)
+- [Notionで何日経ったかを自動計算する方法](https://zenn.dev/evesquare2/articles/e1ae5d6d390be2)
+- [Big Buck Bunnyみたいな開発用サンプル動画一覧](https://zenn.dev/evesquare2/articles/96f740575ffd0f)
+- [Notionデータベースでカウントアップ機能を作る](https://zenn.dev/evesquare2/articles/9610818577ab26)
+- [pgadmin4を定期的にアップデートするのがダルい](https://zenn.dev/evesquare2/articles/767d986f04539a)
 <!-- BLOG-POST-LIST:END -->
