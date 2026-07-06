@@ -32,9 +32,9 @@ Feel free to explore my repositories, and let's connect! 😊✨
 ## Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [パスワードが必要なパスキーとそうでないパスキーは何が違う？どうして違う？](https://qiita.com/evesquare/items/052f2164e5dbf1b0cf9d)
+- [エンジニアが直感的に覚えておくべき「数字」の教養](https://qiita.com/evesquare/items/702d23b0e472cd424685)
+- [Django ORMで育ったエンジニアが生SQLを学び直す 【モデル定義編】](https://qiita.com/evesquare/items/89f5c3860fcee493795b)
 - [Claude Codeに自動で任せる、でも危険なgit操作だけはルールで縛る](https://qiita.com/evesquare/items/c593e35ec53b734b148f)
-- [VercelでDockerfileが使えるようになったので試してみた](https://qiita.com/evesquare/items/ad1af5a6bc931b15713f)
-- [AWS Summit 2026 ― AI駆動開発はどこまで来たか](https://qiita.com/evesquare/items/381dbae2b21d45923834)
-- [RaycastとProject Managerでgit管理されたプロジェクトを爆速で開く](https://qiita.com/evesquare/items/02f1f2f1210ccd8ced1b)
 - [SwiftUI シート裏の背景が暗くならないボトムシートの作成](https://zenn.dev/evesquare2/articles/20720af8b34ec0)
 <!-- BLOG-POST-LIST:END -->
