@@ -32,9 +32,9 @@ Feel free to explore my repositories, and let's connect! 😊✨
 ## Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [コードの散らかりを放置しない](https://qiita.com/evesquare/items/e09ca29e11e4905f19b3)
+- [Django ORMで育ったエンジニアが生SQLを学び直す 【パフォーマンスチューニング編】](https://qiita.com/evesquare/items/e759137b6c2d298a0463)
 - [Klackでメカニカルキーボードのタイピング音をMacで再現する](https://qiita.com/evesquare/items/5a5da3b563130c6c606f)
 - [Django ORMで育ったエンジニアが生SQLを学び直す【クエリ編】](https://qiita.com/evesquare/items/c1e4d28ec98bec53f030)
-- [AWSエンジニアのためのGoogle Cloud脳内変換チートシート：リソース階層とIAMの決定的な違い](https://qiita.com/evesquare/items/0c7627033311d671c295)
-- [Django ORMで育ったエンジニアが生SQLを学び直す【モデル変更編】](https://qiita.com/evesquare/items/571505db04729e027ebc)
 - [SwiftUI シート裏の背景が暗くならないボトムシートの作成](https://zenn.dev/evesquare2/articles/20720af8b34ec0)
 <!-- BLOG-POST-LIST:END -->
