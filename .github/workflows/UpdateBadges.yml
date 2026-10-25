@@ -13,6 +13,4 @@ jobs:
       - name: Badges - Readme
         uses: evesquare/badge-readme@main
         with:
-          # 個人用 (AWS) と会社用 (Google Cloud) のCredlyアカウントを両方読む。
-          # badge-readme の複数アカウント対応 (PR #3) のマージ後に有効になる。
           CREDLY_USERS: "juon-kawakami,username.5f9dff40"
