@@ -11,6 +11,6 @@ jobs:
       contents: write
     steps:
       - name: Badges - Readme
-        uses: evesquare/badge-readme@feature/img_size
-        with:       
-          CREDLY_USER: juon-kawakami
+        uses: evesquare/badge-readme@main
+        with:
+          CREDLY_USERS: "juon-kawakami,username.5f9dff40"
